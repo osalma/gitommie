@@ -1,0 +1,1 @@
+ack on your workstation, change to your home directory. Paste the link you copied and use the wget command to download the package. The link you copied may be different from the one below if a newer development kit version has been release
